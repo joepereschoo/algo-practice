@@ -19,3 +19,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Added healthcheck endpoint stub
 - Verified compatibility with latest runtime version
+
+## 2026-03-23
+- Drafted initial implementation plan for v2
