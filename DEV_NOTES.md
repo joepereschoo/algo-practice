@@ -15,3 +15,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed codebase, identified areas for improvement
 - Tidied up project structure
 - Drafted initial implementation plan for v2
+
+## 2026-03-23
+- Added healthcheck endpoint stub
+- Verified compatibility with latest runtime version
