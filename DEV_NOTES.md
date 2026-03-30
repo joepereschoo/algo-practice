@@ -22,3 +22,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-23
 - Drafted initial implementation plan for v2
+
+## 2026-03-30
+- Investigated performance bottleneck, noted findings
+- Fixed off-by-one error in loop
